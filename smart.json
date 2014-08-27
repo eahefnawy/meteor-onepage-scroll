@@ -1,0 +1,9 @@
+{
+  "name": "onepage-scroll",
+  "description": "JavaScript library for creating an Apple-like one page scroller website.",
+  "homepage": "https://github.com/eahefnawy/meteor-toastr",
+  "author": "Eslam A. Hefnawy (https://github.com/eahefnawy)",
+  "version": "0.1.0",
+  "git": "https://github.com/eahefnawy/meteor-onepage-scroll.git",
+  "packages": {}
+}
